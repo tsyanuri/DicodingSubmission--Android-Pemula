@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Composer</string>
+    <string name="composer_name">Composer Name</string>
+    <string name="detail">Detail</string>
+    <string name="origin_composer">Origin Composer</string>
+    <string name="composer_biography">Composer Biography</string>
+    <string name="myname">Trias Sarah Yanuri</string>
+    <string name="myemail">xxx@gmail.com</string>
+</resources>
